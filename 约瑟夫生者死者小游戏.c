@@ -42,7 +42,7 @@ int main()
                     b[i] = 1;
                     a[i] = j;
                     j = 0;
-                    printf("µÚ%dºÅÏÂ´¬ÁË\n", i);
+                    printf("下船的编号：\n", i);
                     i++;
                     c++;
                 }
