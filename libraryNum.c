@@ -10,7 +10,7 @@ BOOL flag = TRUE;
  * 求100以内的素数。
  * 编译命令：指定c99标准，指定sqrt函数库位置
  * gcc -std=c99 libraryNum.c -lm -o libraryNum
- * @returnzzzz
+ * @return
  */
 int main(void) {
     int i,j;
